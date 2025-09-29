@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from markitdown import MarkItDown, MarkItDownException
+from markitdown import MarkItDown
 
 st.set_page_config(page_title="MarkItDown Web", layout="wide")
 
